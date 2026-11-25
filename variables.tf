@@ -1,6 +1,6 @@
 variable "env" {
     type = string
-    default = "QA"
+    default = "PRD"
 }
 
 variable "vpc_name" {
